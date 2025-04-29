@@ -20,26 +20,26 @@
 
 11. The function returns [50, 100, 150]. The function iterates over the prices array and returns an array of discounted prices. discounted is declarded as a const array, but we can still modify the contents of the array, thus no error.
 
-12. a. student.name
-    b. student["Grad Year"]
-    c. student.greeting()
-    d. student["Favorite Teacher"].name
+12. a. student.name \
+    b. student["Grad Year"]\
+    c. student.greeting()\
+    d. student["Favorite Teacher"].name\
     e. student.courseLoad[0]
 
-13. a. '32'
-    b. 1
-    c. 3
-    d. '3null'
-    e. 4
-    f. 0
-    g. '3undefined'
+13. a. '32'\
+    b. 1\
+    c. 3\
+    d. '3null'\
+    e. 4\
+    f. 0\
+    g. '3undefined'\
     h. NaN
 
-14. a. true
-    b. false
-    c. true
-    d. false
-    e. false
+14. a. true\
+    b. false\
+    c. true\
+    d. false\
+    e. false\
     f. true
 
 15. '==' operator checks only for the value and the '===' operator checks for the value and the type.
